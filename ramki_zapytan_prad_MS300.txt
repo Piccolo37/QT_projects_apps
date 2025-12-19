@@ -1,0 +1,32 @@
+MODBUS RTU – VFD-MS300 (adres falownika: 0x01)
+Zapytania FC=0x03 (Read Holding Registers)
+Format: ADDR FUNC START_H START_L QTY_H QTY_L CRC_LO CRC_HI  (CRC: LSB first)
+
+1) Decimal places wartości prądu (high byte rejestru 211F)
+   Rejestr start: 0x211F
+   Ilość (qty):   1
+   Ramka (HEX):   01 03 21 1F 00 01 BF F0
+
+2) Prąd wyjściowy falownika (Output current, XX.XX A) – 2200H
+   Rejestr start: 0x2200
+   Ilość (qty):   1
+   Ramka (HEX):   01 03 22 00 00 01 8E 72
+
+3) Pakiet: prąd + licznik + częstotliwość (2200..2202)
+   Rejestr start: 0x2200
+   Ilość (qty):   3
+   Ramka (HEX):   01 03 22 00 00 03 0F B3
+
+4) Pakiet: 2200..2208 (prąd, freq, Udc, napięcie, moc, prędkość, moment)
+   Rejestr start: 0x2200
+   Ilość (qty):   9
+   Ramka (HEX):   01 03 22 00 00 09 8F B4
+
+5) Overload counter + GFF (2219..221A)
+   Rejestr start: 0x2219
+   Ilość (qty):   2
+   Ramka (HEX):   01 03 22 19 00 02 1F B4
+
+Uwagi:
+- 2200H zwraca prąd w formacie stałoprzecinkowym; liczba miejsc dziesiętnych jest w high byte rejestru 211F.
+- Jeśli zmienisz adres falownika (pierwszy bajt), musisz ponownie przeliczyć CRC (ostatnie 2 bajty).
