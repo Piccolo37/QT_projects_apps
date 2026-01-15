@@ -1,0 +1,118 @@
+Połączono: COM4 @ 9600
+>> ZAPIS FREQ: 26.15 Hz
+OK (0x06).
+>> ZAPIS FREQ: 50 Hz
+OK (0x06).
+>> START Pomiary (Automatyczne odpytywanie)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> START Pomiary (Automatyczne odpytywanie)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> (Chart2) FREQ: 50.00 Hz
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+>> START
+OK (0x06).
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> STOP
+OK (0x06).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> STOP Pomiary
+>> START Pomiary (Automatyczne odpytywanie)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+>> START Pomiary (Automatyczne odpytywanie)
+Status OK (Błąd usunięty).
+>> START Pomiary (Automatyczne odpytywanie)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+>> START
+OK (0x06).
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> STOP Pomiary
+>> STOP Pomiary
+>> START Pomiary (Automatyczne odpytywanie)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+>> STOP Pomiary
+>> START
+OK (0x06).
+>> START Pomiary (Automatyczne odpytywanie)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> START Pomiary (Automatyczne odpytywanie)
+>> START
+OK (0x06).
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> STOP
+OK (0x06).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> START Pomiary (Automatyczne odpytywanie)
+>> START
+OK (0x06).
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> STOP Pomiary
+>> START Pomiary (Automatyczne odpytywanie)
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+>> START
+OK (0x06).
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 5120)
+Status OK (Błąd usunięty).
+BŁĄD FALOWNIKA: Nieznany (Kod: 1280)
+Status OK (Błąd usunięty).
+>> STOP
+OK (0x06).
+>> STOP Pomiary
